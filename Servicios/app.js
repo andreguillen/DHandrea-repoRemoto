@@ -8,7 +8,7 @@ let nuevaTarea =
 {
     "Titulo": "Controlar cambios",
     "Estado": "Pendiente",
-    "Codigo": 17
+    "Codigo": 20
 };
 
 /*!descomentar para ejecutar agregarTarea(arreglo_objs_literal,nuevaTarea);*/ /*aca le hago retornar el array
