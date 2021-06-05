@@ -1,0 +1,32 @@
+[
+    {
+        "Titulo": "Cambiar nombre de variable",
+        "Estado": "Pendiente",
+        "Codigo": 1
+    },
+    {
+        "Titulo": "Reemplazar carpetas",
+        "Estado": "Terminado",
+        "Codigo": 3
+    },
+    {
+        "Titulo": "Borrar archivos",
+        "Estado": "Pendiente",
+        "Codigo": 2
+    },
+    {
+        "Titulo": "Cambiar nombre de variable",
+        "Estado": "En progreso",
+        "Codigo": 4
+    },
+    {
+        "Titulo": "Cambiar nombre de variable",
+        "Estado": "En progreso",
+        "Codigo": 6
+    },
+    {
+        "Titulo": "Cambiar sintaxis",
+        "Estado": "Pendiente",
+        "Codigo": 16
+    }
+]
